@@ -1,5 +1,5 @@
 import React from 'react'
-import Sidebar from '../contact/Sidebar'
+import Sidebar from '../components/contact/Sidebar'
 
 const Contact = () => {
   return (

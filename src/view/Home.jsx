@@ -1,6 +1,6 @@
 import React from 'react'
-import FormValidation from '../home/FormValidation'
-import NestedMap from '../home/NestedMap'
+import FormValidation from '../components/home/FormValidation'
+import NestedMap from '../components/home/NestedMap'
 
 const Home = () => {
   return (

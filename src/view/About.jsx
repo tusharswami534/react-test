@@ -1,6 +1,6 @@
 import React from 'react'
-import UseSate from '../about/UseSate'
-import UseEffect from '../about/UseEffect'
+import UseSate from '../components/about/UseSate'
+import UseEffect from '../components/about/UseEffect'
 
 const About = () => {
   return (

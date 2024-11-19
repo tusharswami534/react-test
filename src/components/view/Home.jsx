@@ -1,9 +1,12 @@
 import React from 'react'
+import FormValidation from '../home/FormValidation'
+import NestedMap from '../home/NestedMap'
 
 const Home = () => {
   return (
     <div>
-        Home page
+        <FormValidation/>
+        <NestedMap/>
     </div>
   )
 }

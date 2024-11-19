@@ -38,3 +38,36 @@ export const SIDE_BAR_DATA_2 = [
         tabLink : '/home'
     },
 ]
+
+export const  CARD_DATA = [
+    {
+        heading : 'card one',
+        describe : 'Lorem ipsum dolor sit consectetur.  ',
+        content :[
+            {
+                item:'card-1',
+                button : 'button'
+            }
+        ]
+    },
+    {
+        heading : 'card Two',
+        describe : 'Lorem ipsum dolor sit consectetur.  ',
+        content :[
+            {
+                item:'card-2',
+                button : 'button'
+            }
+        ]
+    },
+    {
+        heading : 'card three',
+        describe : 'Lorem ipsum dolor sit consectetur.  ',
+        content :[
+            {
+                item:'card-3',
+                button : 'button'
+            }
+        ]
+    }
+]
